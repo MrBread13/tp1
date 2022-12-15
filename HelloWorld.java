@@ -3,4 +3,5 @@ class HelloWorld {
 	System.out.println("Bonjour Monde!");
 	}
 }
+System.out.println("Comment ça va ?");
 System.out.println("Au revoir !");
